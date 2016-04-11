@@ -1,4 +1,12 @@
 Once upon a time 
+<<<<<<< HEAD
+Once upon a time angels and demons fought a battle!
+The battle went on for decades
+=======
 Once upon a time angels and demons fought a battle
 The battle lasted for years and years long and at last angel won the vicotry against the demons.
+<<<<<<< HEAD
 Angles always win against demons
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
